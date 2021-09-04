@@ -1,0 +1,10 @@
+,poswords,negwords
+1,"('logical', 'JJ')","('conspiracy', 'NN')"
+2,"('important', 'JJ')","('doubt', 'NN')"
+3,"('properly', 'RB')","('denial', 'JJ')"
+4,"('well', 'RB')","('wrongful', 'JJ')"
+5,"('lead', 'JJ')","('intense', 'JJ')"
+6,"('fantastic', 'JJ')","('strange', 'JJ')"
+7,"('pure', 'NN')","('egotism', 'NN')"
+8,"('delight', 'NN')","('manipulation', 'NN')"
+9,"('supremely', 'RB')","('fragile', 'NN')"

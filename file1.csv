@@ -1,0 +1,6 @@
+,poswords,negwords
+0,"('lead', 'JJ')","('intense', 'JJ')"
+1,"('fantastic', 'JJ')","('strange', 'JJ')"
+2,"('pure', 'NN')","('egotism', 'NN')"
+3,"('delight', 'NN')","('manipulation', 'NN')"
+4,"('supremely', 'RB')","('fragile', 'NN')"
